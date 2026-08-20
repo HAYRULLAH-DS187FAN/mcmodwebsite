@@ -1,0 +1,58 @@
+{
+  "site": {
+    "eyebrow": "Sezon 04 · Redstone Arşivi",
+    "headlineStart": "Dünyanı",
+    "headlineEmphasis": "kurcalamak",
+    "headlineEnd": "için yeni nedenler.",
+    "description": "Minecraft dünyaları için inşa ettiğimiz modları; sürümleri, fikirleri ve geliştirme notlarıyla tek bir arşivde topluyoruz.",
+    "primaryActionLabel": "Modları keşfet",
+    "primaryActionUrl": "#modlar",
+    "secondaryActionLabel": "Duyuru günlüğü",
+    "secondaryActionUrl": "#guncellemeler"
+  },
+  "mods": [
+    {
+      "name": "Forgebound",
+      "tagline": "Yapı taşlarını harekete geçir.",
+      "description": "Cevher hattından üretim masasına kadar akıllı mekanikler kur; her blok, daha büyük bir düzeneğin parçası olsun.",
+      "version": "1.21.1",
+      "loader": "Fabric",
+      "status": "Güncel",
+      "downloadUrl": "https://example.com/forgebound-indir",
+      "imageUrl": ""
+    },
+    {
+      "name": "Wanderlight",
+      "tagline": "Her patika bir hikâye taşır.",
+      "description": "Keşif akışını yeniden yazan işaretler, fenerler ve ekosistem detaylarıyla dünyanı daha okunur hâle getir.",
+      "version": "1.20.4",
+      "loader": "Forge",
+      "status": "Keşifte",
+      "downloadUrl": "https://example.com/wanderlight-indir",
+      "imageUrl": ""
+    }
+  ],
+  "announcements": [
+    {
+      "date": "08 Ağu 2026",
+      "type": "Sürüm Notu",
+      "title": "Forgebound 0.6.2 yayınlandı",
+      "description": "Yapı sıraları, yeni basınç vanaları ve daha sessiz aktarım blokları eklendi.",
+      "url": "https://example.com/forgebound-062-notlari"
+    },
+    {
+      "date": "29 Tem 2026",
+      "type": "Geliştirme Günlüğü",
+      "title": "Wanderlight: fener rotaları",
+      "description": "Karanlıkta yön bulmayı oyunun doğal parçası yapan işaret sistemini inceledik.",
+      "url": "https://example.com/wanderlight-gunluk"
+    }
+  ],
+  "community": {
+    "title": "Bir sonraki modu birlikte şekillendirelim.",
+    "description": "Geliştirme notlarını takip etmek, fikir paylaşmak ya da oyun testine katılmak için topluluk kanalına göz at.",
+    "discordUrl": "https://discord.gg/ornek-davet",
+    "githubUrl": "https://github.com/kullanici-adin/repo-adi",
+    "issueUrl": "https://github.com/kullanici-adin/repo-adi/issues"
+  }
+}
